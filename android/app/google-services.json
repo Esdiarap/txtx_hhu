@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945406536720",
+    "project_id": "hhu-app-229fe",
+    "storage_bucket": "hhu-app-229fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945406536720:android:40167d5e087aeb5ca4ae95",
+        "android_client_info": {
+          "package_name": "com.example.testflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945406536720-c4h8k6tl64npsujuf96c7p6vahg5d61i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1Uz7Gg3hp-GV6_MVwl45dZMML_N8mIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945406536720-c4h8k6tl64npsujuf96c7p6vahg5d61i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
